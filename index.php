@@ -17,6 +17,27 @@
 		</div>
 		
 	<div class="grass-h">
+	  <div class ="panda-f">
+        <div class="face-f">
+          <div class ="ear-l"></div>
+          <div class ="ear-r"></div>
+          <div class ="eye-l">
+            <div class="eye-ball-f">
+            </div>
+          </div>
+          <div class ="eye-r">
+            <div class="eye-ball-f">
+            </div>
+          </div>
+          <div class="nose-f"></div>
+        </div>
+        <div class="hand-l"></div>
+        <div class="hand-r"></div>
+        <div class="leg-l"></div>
+        <div class="leg-r"></div>
+        <div class="shadow"></div>
+      </div>
+	  
 			<div class="body1-h">
 				<div class="face-d-h">
 					<div class="ear-left-h"></div>
@@ -177,7 +198,7 @@
     </div>
   </div>
 		<div class="msg-col">
-			<h1> Welcome to My World</h1>
+			<h1> Welcome to Panda & Bamboo</h1>
 			<p>"A panda's daily diet consists almost entirely of the leaves, stems and shoots of various bamboo species. Learn why these much-loved animals are endangered in their bamboo forest homes. Discover the panda's surprising skill at swimming and climbing."</p>
 			<a href="">Get Started</a>
 		</div>
@@ -246,28 +267,8 @@
                     <li></li>
                     <li></li>
             </ul>
-      <div class ="panda-f">
-        <div class="face-f">
-          <div class ="ear-l"></div>
-          <div class ="ear-r"></div>
-          <div class ="eye-l">
-            <div class="eye-ball-f">
-            </div>
-          </div>
-          <div class ="eye-r">
-            <div class="eye-ball-f">
-            </div>
-          </div>
-          <div class="nose-f"></div>
-        </div>
-        <div class="hand-l"></div>
-        <div class="hand-r"></div>
-        <div class="leg-l"></div>
-        <div class="leg-r"></div>
-        <div class="shadow"></div>
-      </div>
+  
 	  <div class="area" >
-
  <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel ="stylesheet">
    
   <div class = "social-menu">
@@ -279,7 +280,6 @@
        <li><a href = "#"><i class="fa fa-pinterest"></i></a> </li>
     </ul>
   </div>
-
 	  </div >
     </footer>
 </html>
